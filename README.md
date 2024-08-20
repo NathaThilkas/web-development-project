@@ -93,8 +93,3 @@ You can use any one of the following:
 3. Manage profile, book hostels, view room details, lodge complaints, check complaint status, provide feedback, change password, and view access logs through the user dashboard.
 4. Use the forgot password feature if necessary.
 
-## Contributions (Group Members)
-
-- **MT. Arsam (19APC4363)**: Developed the admin module, including admin login, profile management, and course management.
-- **MSS. Natha (19APC4073)**: Worked on the user module, focusing on user registration, login, and profile management.
-- **ARM. Afraar (19APC3945)**: Set up the database, configured the server, and integrated the frontend with the backend.
